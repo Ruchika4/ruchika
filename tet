@@ -1,0 +1,18 @@
+curl -X POST "https://admin.hlx.page/preview/ruchika4/ruchika/main/index" &&
+curl -X POST "https://admin.hlx.page/preview/ruchika4/ruchika/main/placeholders.json" &&
+curl -X POST "https://admin.hlx.page/preview/ruchika4/ruchika/main/.helix/headers.json" &&
+curl -X POST "https://admin.hlx.page/preview/ruchika4/ruchika/main/docs/library/library.json" &&
+curl -X POST "https://admin.hlx.page/preview/ruchika4/ruchika/main/metadata.json" &&
+curl -X POST "https://admin.hlx.page/preview/ruchika4/ruchika/main/fragments/gnav" &&
+curl -X POST "https://admin.hlx.page/preview/ruchika4/ruchika/main/fragments/footer" &&
+curl -X POST "https://admin.hlx.page/preview/ruchika4/ruchika/main/fragments/demo" &&
+curl -X POST "https://admin.hlx.page/preview/ruchika4/ruchika/main/fragments/404" &&
+curl -X POST "https://admin.hlx.page/live/ruchika4/ruchika/main/index" &&
+curl -X POST "https://admin.hlx.page/live/ruchika4/ruchika/main/placeholders.json" &&
+curl -X POST "https://admin.hlx.page/live/ruchika4/ruchika/main/.helix/headers.json" &&
+curl -X POST "https://admin.hlx.page/live/ruchika4/ruchika/main/docs/library/library.json" &&
+curl -X POST "https://admin.hlx.page/live/ruchika4/ruchika/main/metadata.json" &&
+curl -X POST "https://admin.hlx.page/live/ruchika4/ruchika/main/fragments/gnav" &&
+curl -X POST "https://admin.hlx.page/live/ruchika4/ruchika/main/fragments/footer" &&
+curl -X POST "https://admin.hlx.page/live/ruchika4/ruchika/main/fragments/demo" &&
+curl -X POST "https://admin.hlx.page/live/ruchika4/ruchika/main/fragments/404"
